@@ -12,6 +12,41 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ██████████████░░░░░░░░░░░   58.82% 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/rifaimartin/rifaimartin/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
