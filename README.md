@@ -33,18 +33,14 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ██████████████░░░░░░░░░░░   58.82% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+JavaScript               10 repos            ██████████████░░░░░░░░░░░   55.56% 
+Go                       2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/rifaimartin/rifaimartin/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
