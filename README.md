@@ -42,6 +42,10 @@ Java                     1 repo              █░░░░░░░░░░�
 ```
 
 
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/rifaimartin/rifaimartin/master/charts/bar_graph.png) 
+
 
 <!--END_SECTION:waka-->
 
