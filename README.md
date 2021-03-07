@@ -6,8 +6,8 @@
 - 🔭 I’m currently man backend dev!
 - 🌱 I’m currently learning about DevOps specially Docker and K8s
 - 👯 I’m looking to collaborate with other developer
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love cooking, finding bug and create unfinished side project 
+- 🥅 2022 Goals: principle developer
+- ⚡ Fun fact: I love music, finding bug and read event drivent architecture 
 
 ### 📊 Weekly development breakdown
 
