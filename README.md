@@ -20,14 +20,13 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       1 hr 50 mins        ████████████████████████░   96.06% 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   3.94%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 55 mins        █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
