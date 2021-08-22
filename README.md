@@ -2,12 +2,12 @@
 
 [![rifaicodeid's github stats](https://github-readme-stats.vercel.app/api?username=rifaimartin)](https://github.com/rifaimartin/rifaimartin)
 
-### I'm a Single Fighter Developer!
+### I'm a Backend Developer & Integration Engineer!
 - 🔭 I’m currently man backend dev!
 - 🌱 I’m currently learning about DevOps specially Docker and K8s
 - 👯 I’m looking to collaborate with other developer
 - 🥅 2022 Goals: principle developer
-- ⚡ Fun fact: I love music, finding bug and read event drivent architecture 
+- ⚡ Fun fact: I love music, finding bug and read event drivent architecture & interested in blockchain! 
 
 ### 📊 Weekly development breakdown
 
