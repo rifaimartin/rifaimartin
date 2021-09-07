@@ -47,6 +47,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
+- instagram - [Rifai Martin](https://www.instagram.com/rifaimartin/)
 - Facebook - [Rifai Martin](https://www.facebook.com/muhammad.rifai.33449138/)
 - Twitter - [@rifaimartin](https://twitter.com/rifaimartin)
 - Blog - [https://rifaimartin.github.io/](https://rifaimartin.github.io/)
