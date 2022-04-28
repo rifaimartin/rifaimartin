@@ -12,7 +12,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -43,7 +43,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2022 01:01:16 UTC
+ Last Updated on 28/04/2022 01:10:44 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
