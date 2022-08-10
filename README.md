@@ -22,13 +22,14 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     11 mins             █████████████░░░░░░░░░░░░   54.86% 
+Other                    9 mins              ███████████░░░░░░░░░░░░░░   45.14%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    16 mins             █████████████████████████   100.0%
 
 ```
 
@@ -45,7 +46,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2022 00:57:49 UTC
+ Last Updated on 10/08/2022 01:01:28 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
