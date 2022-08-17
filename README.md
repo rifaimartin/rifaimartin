@@ -12,7 +12,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-77%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,13 +22,13 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Java                     11 mins             █████████████████████████   100.0%
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.0%
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 💻 Operating System: 
-Linux                    7 mins              █████████████████████████   100.0%
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
 
 ```
 
@@ -45,7 +45,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/08/2022 01:02:39 UTC
+ Last Updated on 17/08/2022 01:07:38 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
