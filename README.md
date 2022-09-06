@@ -12,9 +12,27 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-78%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+C                        7 mins              ████████████░░░░░░░░░░░░░   48.52% 
+Other                    4 mins              ███████░░░░░░░░░░░░░░░░░░   30.62% 
+JSON                     3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.86%
+
+🔥 Editors: 
+VS Code                  16 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    16 mins             █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -29,7 +47,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 01:17:43 UTC
+ Last Updated on 06/09/2022 01:08:27 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
