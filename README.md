@@ -22,13 +22,13 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C                        2 hrs 11 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 11 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 11 mins       █████████████████████████   100.0%
 
 ```
 
@@ -45,7 +45,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/11/2022 00:50:18 UTC
+ Last Updated on 27/11/2022 00:58:24 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
