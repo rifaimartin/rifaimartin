@@ -12,7 +12,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,13 +22,13 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C                        3 hrs 15 mins       █████████████████████████   100.0%
+C                        4 hrs 7 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 15 mins       █████████████████████████   100.0%
+VS Code                  4 hrs 7 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 15 mins       █████████████████████████   100.0%
+Windows                  4 hrs 7 mins        █████████████████████████   100.0%
 
 ```
 
@@ -45,7 +45,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/11/2022 00:51:53 UTC
+ Last Updated on 29/11/2022 00:55:01 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
