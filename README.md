@@ -12,9 +12,9 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-81%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-82%20hrs%2018%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -22,7 +22,8 @@
 ⌚︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-C                        4 hrs 7 mins        █████████████████████████   100.0%
+C                        4 hrs 7 mins        █████████████████████████   99.99% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
 VS Code                  4 hrs 7 mins        █████████████████████████   100.0%
@@ -45,7 +46,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 00:55:01 UTC
+ Last Updated on 30/11/2022 00:55:45 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
