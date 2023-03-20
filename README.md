@@ -12,7 +12,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-102%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -44,7 +44,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/03/2023 00:55:50 UTC
+ Last Updated on 20/03/2023 00:52:53 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
