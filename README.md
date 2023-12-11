@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -48,7 +48,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/12/2023 00:46:20 UTC
+ Last Updated on 11/12/2023 00:43:35 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
