@@ -12,7 +12,7 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2040%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
@@ -26,7 +26,6 @@ Python                   4 hrs 13 mins       ███████████�
 C++                      56 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.91 % 
 Text                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
 CSV                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
 VS Code                  5 hrs 33 mins       █████████████████████████   100.00 % 
@@ -48,7 +47,7 @@ C                        2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/12/2023 00:46:20 UTC
+ Last Updated on 18/12/2023 00:43:33 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
