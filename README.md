@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,7 +44,7 @@ Svelte                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2024 00:48:30 UTC
+ Last Updated on 18/07/2024 00:46:50 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
