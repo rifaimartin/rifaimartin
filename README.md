@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2051%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -44,7 +44,7 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/05/2025 01:01:37 UTC
+ Last Updated on 11/05/2025 01:08:13 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
