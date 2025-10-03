@@ -12,39 +12,22 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2051%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               20 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
-Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+JavaScript               20 repos            ███████░░░░░░░░░░░░░░░░░░   29.85 % 
+Java                     8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Python                   6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+TypeScript               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+HTML                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 ```
 
 
 
 
- Last Updated on 02/10/2025 00:58:44 UTC
+ Last Updated on 03/10/2025 00:58:46 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
