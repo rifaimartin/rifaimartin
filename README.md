@@ -14,21 +14,6 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -42,7 +27,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 01:06:34 UTC
+ Last Updated on 04/11/2025 01:03:30 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
