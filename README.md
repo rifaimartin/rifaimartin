@@ -12,6 +12,8 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2051%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
@@ -42,7 +44,7 @@ TypeScript               5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 01:26:12 UTC
+ Last Updated on 03/02/2026 01:26:23 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
