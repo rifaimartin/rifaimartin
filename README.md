@@ -12,7 +12,24 @@
 ### 📊 Weekly development breakdown
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-135%20hrs%2051%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -27,7 +44,7 @@ HTML                     5 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2026 00:31:03 UTC
+ Last Updated on 16/05/2026 00:29:09 UTC
 <!--END_SECTION:waka-->
 
 ### 📫 Contact Me
